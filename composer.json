@@ -1,0 +1,15 @@
+{
+  "name": "leewayacademy/import-from-excel",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "mauro",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "phpoffice/phpspreadsheet": "^1.16"
+  }
+}
