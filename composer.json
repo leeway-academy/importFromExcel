@@ -1,12 +1,12 @@
 {
   "name": "leewayacademy/import-from-excel",
-  "description": "description",
+  "description": "Generic DB agnostic script to import records from spreadsheets",
   "minimum-stability": "stable",
-  "license": "proprietary",
+  "license": "MIT",
   "authors": [
     {
-      "name": "mauro",
-      "email": "email@example.com"
+      "name": "Mauro Chojrin",
+      "email": "mauro.chojrin@leewayweb.com"
     }
   ],
   "require": {
